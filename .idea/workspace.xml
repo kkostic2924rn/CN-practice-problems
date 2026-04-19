@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf6cadef-a241-4520-9449-c246c30a453a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Vezbe2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadatak 1/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadatak 1/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadatak 2/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadatak 2/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadatak 3/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadatak 3/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +40,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "zadatak2",
+    "git-widget-placeholder": "zadatak-3",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
@@ -72,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776616630357</updated>
-      <workItem from="1776616631437" duration="2969000" />
+      <workItem from="1776616631437" duration="3963000" />
     </task>
     <servers />
   </component>
